@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9e2813b45e2b9861926e0d100de1f50ad3149ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_04812f1014203e96dfa782311c0d2cf0bf0896f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_37d5d45cbb60ce5a5982ddc175d66772ae672207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_90e3f7496b26bb8e5eef1dcd11a91e023d91eb34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_4c514ad3754b3bbb42ad3637a979c296f974bdf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_3f91a0b6caf71eec0444421f8cb079708b32c974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_75c38544baa54b94b44b2952c905e399cb151935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_3403020dfc87d74aede225f0f8fde5b0362fcb99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_7059db8ab4ab363e23276dbb1cb36334e6bbd4ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/RXPHelloWorld/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b178b8f32d789e9c31607b5235d2548725f4df5">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/RXPHelloWorld-react-native-svg-unspecified_841c91942deaf9b0cad963099ff749ad9114828e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_116eecd0799c7ed8cbf1c4b1f656308867776ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/RXPHelloWorld/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33b9ae6aa89cca3401f4947d2b87f5bf9f3c465c">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/RXPHelloWorld-react-native-video-unspecified_9da65cc79445c46cc91c46412a1f1bb6a8c9bbfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_948b7f66dc748145a24a43ceae6668f0c882893f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_b88b003e17938fc9e6351f6df56b05eff80de97b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_93132f5294ed2d586114fcc70044af607f0b768f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_d1553a46c3181acca9057ef3917f9ae0b85297a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_3cdd9eb1459ff3f7b982ce71b4f55071f3c3d327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8ddd7c45dda2a8b5cc282983e9d0618f0c34b01a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_3f32f75a14b1d583858ead5f54ef02133ae7a26c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_78cf78672395b71ef1fc6e2ab4548e656efea6bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_bc3310d326c304925100e882624c427e68588dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_a3b49c844cd9b997ea2839339c21b6fca45d22db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_521649b4c44e63a8f87e3517e75fcd0f54951de2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0667f312a61470d714064cac108307389f38f401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6f61676ee7712fc3a8dcfec3e2786c5568c741fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_878e1b1870b8cdf8654c0744b08d95cb5c0aeaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rachit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/rachit/personal/classic-programming-xp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_73458d56533e5e84d5b1ebc8ffdfd61e046153f5.jar" />
+    </item>
+
+</items>
